@@ -1,4 +1,3 @@
 google-genai
 glob2
-selenium 
 io
