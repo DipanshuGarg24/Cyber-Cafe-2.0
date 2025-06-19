@@ -1,1 +1,2 @@
 google-genai
+selenium==4.25.0
